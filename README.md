@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-=======
+
 Explanation of all Spark SQL, RDD, DataFrame and Dataset examples present on this project are available at https://sparkbyexamples.com/ , All these examples are coded in Scala language and tested in our development environment.
->>>>>>> feature1
 
 # Table of Contents (Spark Examples in Scala)
 
